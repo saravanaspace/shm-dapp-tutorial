@@ -2,7 +2,7 @@
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 
-Website: https://8j6sfl.sse.codesandbox.io/Dashboard(https://8j6sfl.sse.codesandbox.io/Dashboard)
+Website: https://8j6sfl.sse.codesandbox.io/Dashboard
 
 ## Deploy your own
 
